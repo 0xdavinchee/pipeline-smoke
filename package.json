@@ -1,0 +1,1 @@
+{ "name": "pipeline-smoke", "private": true, "type": "module", "scripts": { "test": "node --test" } }
